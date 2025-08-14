@@ -43,7 +43,7 @@ SELECT id FROM movie WHERE title='Casablanca'
 -- 6.
 -- Obtain the cast list for 1942's 'Casablanca'.
 -- 1942 yapımı 'Casablanca' filminin oyuncu listesini alın. (movieid=11768 kullanın)
----YANLIŞ CEVAP
+
 
 SELECT
   actor.name

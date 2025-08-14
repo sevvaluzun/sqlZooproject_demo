@@ -125,7 +125,7 @@ WHERE continent IN (
 --10
 -- Some countries have populations more than three times that of all of their neighbours (in the same continent). Give the countries and continents.
 -- Bazı ülkelerin nüfusları, aynı kıtadaki tüm komşularının toplamının üç katından fazladır. Bu ülkeleri ve kıtalarını verin.
---- YANLIŞ CEVAP
+
  SELECT
   name,
   continent
